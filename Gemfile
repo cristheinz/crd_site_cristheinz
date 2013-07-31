@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 group :production do
-#   gem 'execjs'
-#   gem 'therubyracer'
+   gem 'execjs'
+   gem 'therubyracer'
 end
 gem 'bootstrap-sass', '2.1'
 
