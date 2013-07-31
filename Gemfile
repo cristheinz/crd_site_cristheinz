@@ -17,6 +17,7 @@ end
 
 gem 'jquery-rails', '2.0.2'
 
+
 group :production do
    gem 'execjs'
    gem 'therubyracer'
