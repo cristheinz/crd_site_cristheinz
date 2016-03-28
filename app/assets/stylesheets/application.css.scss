@@ -1,0 +1,72 @@
+@import "bootstrap";
+@import "bootstrap-responsive";
+
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+	//color: #999999;
+	background: #666;
+	//text-align: center;
+	//background-image:url('/assets/res_back.jpg');
+	//background: black;
+}
+.home {
+	padding-top: 40px;
+	padding-bottom: 150px;
+	background: #333333;
+}
+.crd-brand {
+  font-style:oblique;
+}
+
+footer {
+  	margin-top: 45px;
+  	padding-top: 5px;
+  	text-align: center;
+  	//border-top: 1px solid #eaeaea;
+  	//color: #999;
+
+}
+/* typography */
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+
+h1 {
+  font-size: 4em;
+  letter-spacing: -2px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #669966;
+}
+
+h2 {
+  font-size: 1.7em;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+  color: #999;
+}
+
+h3 {
+  color: white;
+  padding: 5px;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.7em;
+  color: #CC9966;
+  padding: 5px;
+}
+
+b {
+  color: #FF0033;
+}
+
+strong {
+  color: #3399FF;
+}
